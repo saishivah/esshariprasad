@@ -8,3 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: finishing the final final commit😂
 -->
+
+MY Recent projects: 🕸💻⌨
+https://esshariprasad.github.io/Forkify/ - A recipe search app built on an Forkify api
+https://esshariprasad.github.io/HTML5-CSS3/ - A Truly responsive webpage
