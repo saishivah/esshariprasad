@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently studying masters in computer science at University of Houston. 
-- 🌱 Passionate about fullstack, backend and designining high availabilty cloud applications.
+- 🔭 I'm currently studying masters in Computer Science at University of Houston. 
+- 🌱 Passionate about Fullstack, Backend and designining high availabilty cloud applications.
 - 📫 How to reach me: esshariprasad@gmail.com
 - 😄 Pronouns: HE/HIM 
 -->
