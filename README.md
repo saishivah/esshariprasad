@@ -22,5 +22,5 @@ https://esshariprasad.github.io/HTML5-CSS3/ - A Truly responsive webpage
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/esshariprasad)
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/s.s.hariprasad/)
 [<img src="https://user-images.githubusercontent.com/19888725/154806365-0d16b414-2716-42e1-a70b-06b8796f9dd0.png" alt="medium logo" width="32">](https://medium.com/@esshariprasad) 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:esshariprasad@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" alt="Gmail logo" height="32">](mailto:esshariprasad@gmail.com)
 
