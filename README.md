@@ -6,8 +6,8 @@
 - 😄 Pronouns: HE/HIM 
 -->
 
-My Resume:
-https://esshariprasad.github.io
+<!-- My Resume: -->
+<!-- https://esshariprasad.github.io -->
 
 MY Recent projects: 🕸💻⌨ <br>
 https://esshariprasad.github.io/Forkify/ - A recipe search app built on an Forkify api<br>
